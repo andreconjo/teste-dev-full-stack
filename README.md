@@ -7,16 +7,17 @@ Teste Full Stack para analisar a capacidade de candidatos a vagas de desenvolvim
 	- Incluir itens 
 	- Alterar itens
 	- Excluir itens
+	- Checkout do pedindo baixando o item do estoque
   
 # REQUISITOS TÉCNICOS
 - Para desenvolver essa plataforma o candidato deve ter conhecimento full stack e propor uma solução completa, abaixo as tecnologias que estamos analisando para cada parte do teste (fique a vontade para complementar essa lista com tecnologias correlatas):
 
-  - FRONT-END: HTML5, JS, AngularJs(Superior), Bootstrap
-  - BACK-END: Java, Spring (BOOT, DI, DATA, REST...), jpa/hibernate
+  - FRONT-END: HTML5, Bootstrap, NPM ou bower e Angular2+)
+  - BACK-END: Java, Spring (BOOT, DI, DATA, REST), jpa/hibernate e modelo de autenticação e autorização da API (JWT).
   - BANCO DE DADOS: Postgre / Mysql / Sql Server
 
 # NECESSIDADES DEVOPS
-- Manter um repositório GIT aberto para analisarmos os fontes
+- Manter um repositório GIT aberto para analisarmos os fontes.
 - Subir a aplicação em algum servidor, de preferência o HEROKU para navegar no "MVP-ECOMMERCE "
 
 # DOCUMENTAÇÃO
